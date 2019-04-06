@@ -35,6 +35,9 @@
 ## 3. njit is Domain Name - identifies and calls up the specific computer on the Web that stores the information you requested. 
 ## 4. .edu is TLD - Indicates the type of source for a web site.
 
+
+## **HTTP and HTTPS**
+
 ## **How a web server can respond to requests through HTTP:**
 ## Web browsers and servers communicate via TCP/IP. 
 ## Hypertext Transfer Protocol (HTTP) is the standard application protocol on top of TCP/IP supporting web browser requests and server responses.
@@ -47,6 +50,14 @@
 ## As part of this process, the browser also makes DNS lookup requests to convert the URL to an IP address.
 ## 3. After the server completes acknowledgment of its side of the TCP connection, the browser sends HTTP requests to the server to retrieve the content.
 ## 4. After the server replies with content for the page, the browser retrieves it from the HTTP packets and displays it accordingly.
+
+
+
+## HTTPS 
+
+## Hyper Text Transfer Protocol Secure (HTTPS) - a protocol for securing the communication between two systems, the browser and the web server.
+`![alt text](image location)`
+![example](/img/https-communication.JPG)
 
 
 
