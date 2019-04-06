@@ -25,7 +25,7 @@
    
 
 ## ****How to read web address:**** 
-##Each page on the internet has a unique address that is identified by the URL. URL - Uniform Resource Locator.
+## Each page on the internet has a unique address that is identified by the URL. URL - Uniform Resource Locator.
 ## Knowing what each of the basic elements are in a URL will help to identify the type of website and its purpose.
 ## Example: _http://www.njit.edu_
 ## 1. http - HyperText Transfer Protocol - The website is a hypertext document.  
@@ -35,6 +35,18 @@
 ## 3. njit is Domain Name - identifies and calls up the specific computer on the Web that stores the information you requested. 
 ## 4. .edu is TLD - Indicates the type of source for a web site.
 
+## **How a web server can respond to requests through HTTP:**
+## Web browsers and servers communicate via TCP/IP. 
+## Hypertext Transfer Protocol (HTTP) is the standard application protocol on top of TCP/IP supporting web browser requests and server responses.
+## Also, web browsers use DNS to work with URLs.
+## These protocol standards help different brands of web browsers to communicate with different brands of web servers without requiring special logic for each combination.
+## In addition, web browser and server connections normally run through a series of intermediate network routers
+## _Steps of a basic web browsing session:_
+## 1.The user specifies a URL in their browser
+## 2.The browser initiates a TCP connection to the web server or server pool (using port 80 by default) via its IP address as published in DNS. 
+## As part of this process, the browser also makes DNS lookup requests to convert the URL to an IP address.
+## 3. After the server completes acknowledgment of its side of the TCP connection, the browser sends HTTP requests to the server to retrieve the content.
+## 4. After the server replies with content for the page, the browser retrieves it from the HTTP packets and displays it accordingly.
 
 
 
@@ -48,3 +60,4 @@
 ##Sources: http://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/
 ##https://www.awordtothewiseandcommonsense.com/how-to-read-a-url.html
 ##https://en.wikipedia.org/wiki/World_Wide_Web
+##https://www.lifewire.com/web-browsers-and-web-servers-communicate-817764
