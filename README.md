@@ -53,11 +53,24 @@
 
 
 
-## HTTPS 
+## **HTTPS** 
 
 ## Hyper Text Transfer Protocol Secure (HTTPS) - a protocol for securing the communication between two systems, the browser and the web server.
 `![alt text](image location)`
-![example](/img/https-communication.JPG)
+![example](/img/https-communication.JPG) 
+
+## Secure Sockets Layer (SSL) - a protocol which creates a secure connection over a computer network.
+## The latest version of SSL is called Transport Layer Security (TLS)
+
+## **Difference Between HTTP and HTTPS**
+## 1. HTTP - Unsecured information exchange protocol / HTTPS - Secured information exchange protocol
+## 2. HTTP sends data over port 80 and HTTPS uses port 443
+## 3. HTTPS transfers data in encrypted format while HTTP transfers data in hypertext format.
+## 4. HTTP works at the application layer, while HTTPS works at the transport layer
+## 5. HTTP URL starts with HTTP:// , and the HTTPS URL starts with HTTPS://
+
+
+
 
 
 
@@ -72,3 +85,5 @@
 ##https://www.awordtothewiseandcommonsense.com/how-to-read-a-url.html
 ##https://en.wikipedia.org/wiki/World_Wide_Web
 ##https://www.lifewire.com/web-browsers-and-web-servers-communicate-817764
+##https://www.tutorialsteacher.com/https/what-is-https
+##https://www.webinspector.com/blog/website-security-check/what-is-https-and-why-switching-to-https/
