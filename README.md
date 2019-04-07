@@ -1,6 +1,11 @@
 # assignment2
 
-#How Internet Works
+#How Internet Works 
+
+
+`![alt text](image location)`
+![example](/img/pic2.jpg) 
+
 
 ## **DNS** (Domain Name System) - it maintains a directory of domain names and translates them to Internet Protocol (IP) addresses.
 ## **IP** (Internet Protocol)-  unique number for every machine using the internet (computer, phone, router, etc.) 
