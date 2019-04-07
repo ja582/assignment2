@@ -21,7 +21,7 @@
 ## .net        Network
 ## .mil        Military institution
    ![alt text](image location)`
-   ![example](/img/pic1.JPG)
+   ![example](/img/pic1.jpg)
    
 
 ## ****How to read web address:**** 
@@ -57,7 +57,7 @@
 
 ## Hyper Text Transfer Protocol Secure (HTTPS) - a protocol for securing the communication between two systems, the browser and the web server.
 `![alt text](image location)`
-![example](/img/https-communication.JPG) 
+![example](/img/https-communication.jpg) 
 
 ## Secure Sockets Layer (SSL) - a protocol which creates a secure connection over a computer network.
 ## The latest version of SSL is called Transport Layer Security (TLS)
@@ -68,8 +68,6 @@
 ## 3. HTTPS transfers data in encrypted format while HTTP transfers data in hypertext format.
 ## 4. HTTP works at the application layer, while HTTPS works at the transport layer
 ## 5. HTTP URL starts with HTTP:// , and the HTTPS URL starts with HTTPS://
-
-
 
 
 
