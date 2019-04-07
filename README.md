@@ -41,6 +41,11 @@
 ## 4. .edu is TLD - Indicates the type of source for a web site.
 
 
+## Second example:
+   ![alt text](image location)`
+   ![example](/img/pic3.png)
+
+
 ## **HTTP and HTTPS**
 
 ## **How a web server can respond to requests through HTTP:**
