@@ -110,6 +110,13 @@ A table of the most commonly used permission values:
  | 644 | (rw-r--r--) The owner of the file may read and write a file. Other users may only read it.     |
  | 600 | (rw-------) The owner may read and write to the file. Nobody else has rights.    |
 
+To simply change file permissions in terminal, simple type:
+
+`chmod <value> file_name.extenstion`
+
+An example:
+
+![file permission changed](/img/chmod.png)
      
   
  
