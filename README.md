@@ -47,9 +47,32 @@ Example:
 
 To go to any other directory, just type something after `cd`
 
+### the vi editor
+The vi editor in Linux is a built in text-editor in the terminal shell. 
+
+To start it up, do `vi <Filename>`. 
 
 
-   
+![opened file in vi](/img/viOpen.png)
+
+From here you can use the keys on your keyboard:
+
+`'h' to move one character to the left`
+
+`'j' to move down character`
+
+`'k' to move up one character`
+
+`'l' to move one character to the right`
+
+
+To edit a file, simply press `i` on your keyboard and write like so:
+
+![edited file in vi](/img/viEdit.png)
+  
+Once you are done, simply press the `ESC` key and write in the terminal shell: `:wq`.
+
+
 
      
   
