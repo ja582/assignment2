@@ -74,6 +74,8 @@ Once you are done, simply press the `ESC` key and type `:wq` in the terminal to 
 
 ## File Protocols and Permissions
 
+### File Protocols and SSH
+
 To transfer files to a computer (a local) to a server (a remote), you'll be using 2 file transfer protocols: FTP, and SFTP.
 
 - **FTP** is the standard file transfer protocol. It is used to transfer a file from the local to the remote. 
@@ -86,10 +88,10 @@ Uses TCP port 22.
 
 - **SSH** is a network protocol for operating networks that allow services to connect securely over an unsecured network. 
 Typical used in command-line applications that allow a user to securely send files from a local that may contain sensitive information to a sensitive remote.
-Has strong encrpytion and provides serval alternative options for strong authentication. 
+Has strong encryption and provides several alternative options for strong authentication. 
 
 
-
+### File Permissions
 
 
      
