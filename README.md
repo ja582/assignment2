@@ -12,9 +12,32 @@ One of the most popular versions of Linux is Ubuntu.
 
 You can look more into Ubuntu here:  [Ubuntu.com](https://www.ubuntu.com/)
 
-## Linux Terminal Commands
+## Some Linux Terminal Commands
 Linux comes with a program known as the "terminal shell".
 It allows you to manipulate and change files in the system with text commands.
 
 1. `ls`
-    - `ls` 
+    - `ls` is a command that lists all contents in a directory. 
+    - To simply use `ls`, type it into the linux terminal and use the following commands below for more options.
+    
+   
+  A table of `ls` commands
+   
+ | option       | usage          | 
+ | ------------- |:-------------:|
+ | ls -a      | List all files including hidden files starting with a '.' |
+ | ls -d | List directories.      |
+ | ls -i | List the files's inode index number.   |
+ | ls -l | List files with their permissions.    |
+ | ls -la | List files and with the hidden files.     |
+ | ls -lh | List files by long format with a readable file size.     |
+ | ls -ls | List the files with long format and with file size .   |
+ | ls -r | List files in a reverse order.      |
+ | ls -s | Sort files by file size     |
+ | ls -S | Sort by the file size      |
+ | ls -t | Sort by the time & the date      |
+ | ls -x | Sort the files by the extension name.     |
+ 
+ 2. `cd`
+      
+ 
