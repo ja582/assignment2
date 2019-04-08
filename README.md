@@ -45,7 +45,7 @@ It allows you to manipulate and change files in the system with text commands.
 Example:    
 ![cd desktop](/img/cdDesktop.png)
 
-To go to any other directory, just type something after `cd`
+To go to any other directory, just type something after `cd`.
 
 ### The vi Editor
 The vi editor in Linux is a built in text-editor in the terminal shell. 
@@ -71,6 +71,22 @@ To edit a file, simply press `i` on your keyboard and write like so:
 ![edited file in vi](/img/viEdit.png)
   
 Once you are done, simply press the `ESC` key and type `:wq` in the terminal to save and close your work.
+
+## Files and File Permissions
+
+To transfer files to a computer (a local) to a server (a remote), you'll be using 2 file transfer protocols: FTP, and SFTP.
+
+- **FTP** is the standard file transfer protocol. It is used to transfer a file from the local to the remote. 
+FTP clients provide this functionality. It usually runs over TCP port 21 or 20. It has been around since the 1970s. 
+It is less secure.
+
+- **SFTP** is a completely different file transfer protocol, compared to FTP. 
+SFTP functions the same as FTP, but instead it runs over an SSH session allowing it to be more secure. 
+Uses TCP port 22.
+
+- **SSH** is a network protocol for operating networks that allow services to connect securely over an unsecured network. 
+Typical used in command-line applications that allow a user to securely send files from a local that may contain sensitive information to a sensitive remote.
+Has strong encrpytion and provides serval alternative options for strong authentication. 
 
 
 
