@@ -92,6 +92,8 @@ Has strong encryption and provides several alternative options for strong authen
 
 
 ### File Permissions
+
+#### chmod
 File permissions are what allows a user and computer to do to a file. Some files may only let you read, write, and execute. 
 Sometimes a combination of the two.  
 
@@ -112,11 +114,14 @@ A table of the most commonly used permission values:
 
 To simply change file permissions in terminal, simple type:
 
-`chmod <value> file_name.extenstion`
+`chmod <value> file_name.extension`
 
 An example:
 
 ![file permission changed](/img/chmod.png)
-     
+   
   
- 
+ #### chown
+chown is similar to chmod except it will fix file ownership on an entire directory or a file.
+
+To simply use chown, type `chown <user_name> *<file extension>` in terminal to set all the said file extension to a user on the system's name.
