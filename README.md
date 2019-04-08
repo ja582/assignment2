@@ -92,7 +92,23 @@ Has strong encryption and provides several alternative options for strong authen
 
 
 ### File Permissions
+File permissions are what allows a user and computer to do to a file. Some files may only let you read, write, and execute. 
+Sometimes a combination of the two.  
 
+To read file permissions please us this image:
+
+![file permissions table](/img/file_permissions.png)
+
+A table of the most commonly used permission values:
+
+| chmod value       | Definition          | 
+ | ------------- |:-------------:|
+ | 777      | (rwxrwxrwx) No permissions. You can do anything. |
+ | 755| (rwxr-xr-x) The owner of the file may read, write, and execute the file. All other users can only read and execute.     |
+ | 700 | (rwx------) The owner of the file may read, write, and execute. Nobody else can do anything to it. Useful for files that you want to use, keep private from other users.   |
+ | 666 | (rw-rw-rw-) Any user may read and write to the file.    |
+ | 644 | (rw-r--r--) The owner of the file may read and write a file. Other users may only read it.     |
+ | 600 | (rw-------) The owner may read and write to the file. Nobody else has rights.    |
 
      
   
