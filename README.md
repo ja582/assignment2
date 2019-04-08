@@ -96,3 +96,4 @@
 ##https://www.lifewire.com/web-browsers-and-web-servers-communicate-817764
 ##https://www.tutorialsteacher.com/https/what-is-https
 ##https://www.webinspector.com/blog/website-security-check/what-is-https-and-why-switching-to-https/
+##https://visual.ly/community/infographic/computers/how-internet-works-0
