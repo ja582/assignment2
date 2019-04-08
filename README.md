@@ -39,5 +39,18 @@ It allows you to manipulate and change files in the system with text commands.
  | ls -x | Sort the files by the extension name.     |
  
  2. `cd`
-      
+    - `cd` command allows the user to change the directory inside the Linux shell, allowing easy navigation. 
+    - To use it properly, you must type `cd <directory>`. 
+    
+Example:    
+![cd desktop](/img/cdDesktop.png)
+
+To go to any other directory, just type something after `cd`
+
+
+
+   
+
+     
+  
  
