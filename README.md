@@ -72,7 +72,7 @@ To edit a file, simply press `i` on your keyboard and write like so:
   
 Once you are done, simply press the `ESC` key and type `:wq` in the terminal to save and close your work.
 
-## Files and File Permissions
+## File Protocols and Permissions
 
 To transfer files to a computer (a local) to a server (a remote), you'll be using 2 file transfer protocols: FTP, and SFTP.
 
